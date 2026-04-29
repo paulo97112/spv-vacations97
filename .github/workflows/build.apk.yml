@@ -105,7 +105,7 @@ jobs:
                       android:exported="true">
                       <meta-data
                           android:name="android.support.customtabs.trusted.DEFAULT_URL"
-                          android:value="https://spvvacation-35ac4jps.netlify.app/" />
+                          android:value="https://spv-vacations97.netlify.app/" />
                       <intent-filter>
                           <action android:name="android.intent.action.MAIN" />
                           <category android:name="android.intent.category.LAUNCHER" />
